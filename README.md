@@ -1,5 +1,8 @@
 # Webview Simple com Live-Reload, DevTools :blush:
 
+Webview simple feito em electron , para deixar o projeto com debug aberto sobre as janelas e com auto-reload com as alterações feitas
+
+
 # Passos para executar a Webview
 
 1 - Substituir a url no arquivo config.js.
